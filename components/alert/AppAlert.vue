@@ -10,7 +10,7 @@
     export default {
         extends: {},
         mixins: [],
-        name: 'AppAlert',
+        name: 'AppAlertBootstrap',
         props: {
             show: {
                 type: [Boolean, Number],

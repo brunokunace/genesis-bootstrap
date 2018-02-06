@@ -1,1 +1,1 @@
-export { default as AppAlert } from './components/alert/AppAlert.vue';
+export { default as AppAlertBootstrap } from './components/alert/AppAlert.vue';
