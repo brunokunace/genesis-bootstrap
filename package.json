@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
-    "genesis": "github:genesis-dashboard/genesis-vue#0.1.0",
+    "genesis": "github:genesis-dashboard/genesis-vue",
     "bootstrap-vue": "2.0.0-rc.1"
   }
 }
